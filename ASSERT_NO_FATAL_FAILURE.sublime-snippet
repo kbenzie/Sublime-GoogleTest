@@ -1,0 +1,6 @@
+<snippet>
+	<description>Goolge Test Assert No Fatal Failure</description>
+	<content><![CDATA[ASSERT_NO_FATAL_FAILURE(${1:statement})]]></content>
+	<tabTrigger>ASSERT_NO_FATAL_FAILURE</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>

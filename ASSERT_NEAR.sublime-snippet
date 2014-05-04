@@ -1,0 +1,6 @@
+<snippet>
+	<description>Goolge Test Assert Near</description>
+	<content><![CDATA[ASSERT_NEAR(${1:value1}, ${2:value2}, ${3:abs error})]]></content>
+	<tabTrigger>ASSERT_NEAR</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>

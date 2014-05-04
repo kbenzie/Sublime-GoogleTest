@@ -1,0 +1,9 @@
+<snippet>
+	<description>Goolge Test Simple Test</description>
+	<content><![CDATA[TEST(${1:TestCaseName}, ${2:TestName})
+{
+	${0:/* test body */}
+}]]></content>
+	<tabTrigger>TEST</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>

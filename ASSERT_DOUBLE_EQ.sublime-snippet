@@ -1,0 +1,6 @@
+<snippet>
+	<description>Goolge Test Assert Double Equal</description>
+	<content><![CDATA[ASSERT_DOUBLE_EQ(${1:expected}, ${2:actual})]]></content>
+	<tabTrigger>ASSERT_DOUBLE_EQ</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>

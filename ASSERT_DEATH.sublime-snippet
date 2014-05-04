@@ -1,0 +1,6 @@
+<snippet>
+	<description>Goolge Test Assert Death</description>
+	<content><![CDATA[ASSERT_DEATH(${1:statement}, "${2:regex}")]]></content>
+	<tabTrigger>ASSERT_DEATH</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>

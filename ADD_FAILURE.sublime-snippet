@@ -1,0 +1,6 @@
+<snippet>
+	<description>Goolge Test Non Factal Failure</description>
+	<content><![CDATA[ADD_FAILURE()]]></content>
+	<tabTrigger>ADD_FAILURE</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>

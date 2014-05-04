@@ -1,0 +1,6 @@
+<snippet>
+	<description>Goolge Test Run All Tests</description>
+	<content><![CDATA[return RUN_ALL_TESTS()]]></content>
+	<tabTrigger>RUN_ALL_TESTS</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>

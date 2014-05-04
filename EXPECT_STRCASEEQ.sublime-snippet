@@ -1,0 +1,6 @@
+<snippet>
+	<description>Goolge Test Expect String Equal (Ignore Case)</description>
+	<content><![CDATA[EXPECT_STRCASEEQ(${1:expected}, ${2:actual})]]></content>
+	<tabTrigger>EXPECT_STRCASEEQ</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>

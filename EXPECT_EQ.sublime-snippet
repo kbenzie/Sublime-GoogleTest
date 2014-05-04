@@ -1,0 +1,6 @@
+<snippet>
+	<description>Goolge Test Expect Equal</description>
+	<content><![CDATA[EXPECT_EQ(${1:expected}, ${2:actual})]]></content>
+	<tabTrigger>EXPECT_EQ</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>Goolge Test Expect Predicate Function One Argument</description>
+	<content><![CDATA[EXPECT_PRED1(${1:function}, ${2:value})]]></content>
+	<tabTrigger>EXPECT_PRED1</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>

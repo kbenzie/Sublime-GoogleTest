@@ -1,0 +1,6 @@
+<snippet>
+	<description>Goolge Test Expect Less Than Or Equal</description>
+	<content><![CDATA[EXPECT_LE(${1:expected}, ${2:actual})]]></content>
+	<tabTrigger>EXPECT_LE</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>

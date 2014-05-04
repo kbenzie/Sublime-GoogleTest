@@ -1,0 +1,6 @@
+<snippet>
+	<description>Goolge Test Assert Throw</description>
+	<content><![CDATA[ASSERT_THROW(${1:statement}, ${2:excpetion type})]]></content>
+	<tabTrigger>ASSERT_THROW</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>

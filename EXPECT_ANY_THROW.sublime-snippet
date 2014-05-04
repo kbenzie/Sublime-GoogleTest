@@ -1,0 +1,6 @@
+<snippet>
+	<description>Goolge Test Expect Any Throw</description>
+	<content><![CDATA[EXPECT_ANY_THROW(${1:statement})]]></content>
+	<tabTrigger>EXPECT_ANY_THROW</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>

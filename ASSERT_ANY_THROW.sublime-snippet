@@ -1,0 +1,6 @@
+<snippet>
+	<description>Goolge Test Assert Any Throw</description>
+	<content><![CDATA[ASSERT_ANY_THROW(${1:statement})]]></content>
+	<tabTrigger>ASSERT_ANY_THROW</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>

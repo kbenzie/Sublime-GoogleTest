@@ -1,0 +1,6 @@
+<snippet>
+	<description>Goolge Test Expect Exit</description>
+	<content><![CDATA[EXPECT_EXIT(${1:statement}, "${2:regex}")]]></content>
+	<tabTrigger>EXPECT_EXIT</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>

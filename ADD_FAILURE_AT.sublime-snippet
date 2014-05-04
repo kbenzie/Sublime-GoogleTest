@@ -1,0 +1,6 @@
+<snippet>
+	<description>Goolge Test Non Fatal Failure At</description>
+	<content><![CDATA[ADD_FAILURE_AT("${1:file path}", ${2:line number})]]></content>
+	<tabTrigger>ADD_FAILURE_AT</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>Goolge Test Expect Near</description>
+	<content><![CDATA[EXPECT_NEAR(${1:value1}, ${2:value2}, ${3:abs error})]]></content>
+	<tabTrigger>EXPECT_NEAR</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>

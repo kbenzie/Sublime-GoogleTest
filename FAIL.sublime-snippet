@@ -1,0 +1,6 @@
+<snippet>
+	<description>Goolge Test Explicit Failure</description>
+	<content><![CDATA[FAIL()]]></content>
+	<tabTrigger>FAIL</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>

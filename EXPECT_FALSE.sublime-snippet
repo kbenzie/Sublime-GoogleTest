@@ -1,0 +1,6 @@
+<snippet>
+	<description>Goolge Test Expect False</description>
+	<content><![CDATA[EXPECT_FALSE(${1:expected}, ${2:actual})]]></content>
+	<tabTrigger>EXPECT_FALSE</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>Goolge Test Assert Death If Supported</description>
+	<content><![CDATA[ASSERT_DEATH_IF_SUPPORTED(${1:statement}, "${2:regex}")]]></content>
+	<tabTrigger>ASSERT_DEATH_IF_SUPPORTED</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>

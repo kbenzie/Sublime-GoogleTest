@@ -1,0 +1,6 @@
+<snippet>
+	<description>Goolge Test Assert Predicate Formatter One Argument</description>
+	<content><![CDATA[ASSERT_PRED_FORMAT1(${1:function}, ${2:value})]]></content>
+	<tabTrigger>ASSERT_PRED_FORMAT1</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<description>Goolge Test Assert No Throw</description>
+	<content><![CDATA[ASSERT_NO_THROW(${1:statement})]]></content>
+	<tabTrigger>ASSERT_NO_THROW</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>
