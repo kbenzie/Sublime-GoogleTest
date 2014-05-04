@@ -1,0 +1,6 @@
+<snippet>
+	<description>Goolge Test Expect Non Fatal Failure</description>
+	<content><![CDATA[EXPECT_NONFATAL_FAILURE(${1:statement}, "${2:substring}")]]></content>
+	<tabTrigger>EXPECT_NONFATAL_FAILURE</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>
