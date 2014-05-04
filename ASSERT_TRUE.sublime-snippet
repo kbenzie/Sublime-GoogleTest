@@ -1,0 +1,6 @@
+<snippet>
+	<description>Google Test Assert True</description>
+	<content><![CDATA[ASSERT_TRUE(${1:expected}, ${2:actual})]]></content>
+	<tabTrigger>ASSERT_TRUE</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>

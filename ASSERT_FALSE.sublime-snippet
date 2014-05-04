@@ -1,0 +1,6 @@
+<snippet>
+	<description>Google Test Assert False</description>
+	<content><![CDATA[ASSERT_FALSE(${1:expected}, ${2:actual})]]></content>
+	<tabTrigger>ASSERT_FALSE</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>

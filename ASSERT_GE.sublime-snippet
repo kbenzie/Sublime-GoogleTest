@@ -1,0 +1,6 @@
+<snippet>
+	<description>Goolge Test Assert Greater Than Or Equal</description>
+	<content><![CDATA[ASSERT_GE(${1:expected}, ${2:actual})]]></content>
+	<tabTrigger>ASSERT_GE</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>

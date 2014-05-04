@@ -1,0 +1,6 @@
+<snippet>
+	<description>Goolge Test Assert Less Than Or Equal</description>
+	<content><![CDATA[ASSERT_LE(${1:expected}, ${2:actual})]]></content>
+	<tabTrigger>ASSERT_LE</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>
