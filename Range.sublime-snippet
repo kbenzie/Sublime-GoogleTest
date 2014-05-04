@@ -1,0 +1,6 @@
+<snippet>
+	<description>Goolge Test Parameter Ranges</description>
+	<content><![CDATA[::testing::Range(${1:begin}, ${2:end}, ${3:step})]]></content>
+	<tabTrigger>Range</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>

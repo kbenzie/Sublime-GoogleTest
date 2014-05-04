@@ -1,0 +1,9 @@
+<snippet>
+	<description>Goolge Test Typed Fixture Test</description>
+	<content><![CDATA[TYPED_TEST(${1:TestCaseName}, ${2:TestName})
+{
+	${0:/* test body */}
+}]]></content>
+	<tabTrigger>TYPED_TEST</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>

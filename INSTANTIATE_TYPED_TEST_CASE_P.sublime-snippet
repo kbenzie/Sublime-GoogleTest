@@ -1,0 +1,7 @@
+<snippet>
+	<description>Goolge Test Instanciate Typed Test Case P</description>
+	<content><![CDATA[typedef ::testing::Types<${4:types}> $3;
+INSTANTIATE_TYPED_TEST_CASE_P(${1:InstantiationName}, ${2:TestCaseName}, ${3:Types});]]></content>
+	<tabTrigger>INSTANTIATE_TYPED_TEST_CASE_P</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>

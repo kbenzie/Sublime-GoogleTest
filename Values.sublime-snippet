@@ -1,0 +1,6 @@
+<snippet>
+	<description>Goolge Test Parameter Values</description>
+	<content><![CDATA[::testing::Values(${0:values})]]></content>
+	<tabTrigger>Values</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>

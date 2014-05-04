@@ -1,0 +1,22 @@
+<snippet>
+	<description>Goolge Test Typed Fixture</description>
+	<content><![CDATA[template <typename ${3:T}> class ${1:Fixture} : public ${2:::testing::Test}
+{
+public:
+	$1()
+	{
+	}
+
+	virtual void SetUp()
+	{
+	}
+
+	virtual void TearDown()
+	{
+	}
+
+	${0:/* typed data members */}
+};]]></content>
+	<tabTrigger>fixtureT</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>

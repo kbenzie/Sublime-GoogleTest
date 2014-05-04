@@ -1,0 +1,7 @@
+<snippet>
+	<description>Goolge Test Typed Fixture Test Case</description>
+	<content><![CDATA[typedef ::testing::Types<${3:types}> $2;
+TYPED_TEST_CASE(${1:TestCaseName}, ${2:Types});]]></content>
+	<tabTrigger>TYPED_TEST_CASE</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>

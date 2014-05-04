@@ -1,0 +1,6 @@
+<snippet>
+	<description>Goolge Test Parameter Bool</description>
+	<content><![CDATA[::testing::Bool()]]></content>
+	<tabTrigger>Bool</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>

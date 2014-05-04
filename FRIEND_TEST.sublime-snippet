@@ -1,0 +1,6 @@
+<snippet>
+	<description>Goolge Test Friend Test</description>
+	<content><![CDATA[FRIEND_TEST(${1:TestCaseName}, ${2:TestName})]]></content>
+	<tabTrigger>FRIEND_TEST</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>

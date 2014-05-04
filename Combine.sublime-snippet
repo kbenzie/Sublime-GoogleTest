@@ -1,0 +1,6 @@
+<snippet>
+	<description>Goolge Test Test Instantiation Combinations</description>
+	<content><![CDATA[::testing::Combine(${1:values})]]></content>
+	<tabTrigger>Combine</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>
