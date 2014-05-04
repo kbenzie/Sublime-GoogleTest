@@ -1,0 +1,9 @@
+<snippet>
+	<description>Goolge Test Type Fixture Set Up Function</description>
+	<content><![CDATA[virtual void TestCaseSetUp()
+{
+	$0
+}]]></content>
+	<tabTrigger>TestCaseSetUp</tabTrigger>
+	<scope>source.c, source.c++</scope>
+</snippet>
