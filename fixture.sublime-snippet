@@ -2,7 +2,7 @@
 	<description>Goolge Test Fixture</description>
 	<content><![CDATA[class ${1:Fixture} : public ${2:::testing::Test}
 {
-public
+public:
 	$1()
 	{
 	}
